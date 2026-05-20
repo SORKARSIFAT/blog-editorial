@@ -2,7 +2,7 @@
 
 A minimal, dark-mode editorial platform for long-form writing on political thought, Islamic tradition, Bangladeshi history, and global power structures.
 
-**Live Site:** [BLOC Editorial](https://bloc.example.com)
+**Live Site:** [BLOC Editorial](https://monumental-crumble-abe977.netlify.app/)
 
 ---
 
@@ -188,9 +188,10 @@ For licensing inquiries, contact the collective.
 
 ## Contact
 
-- **Email:** contact@bloc-editorial.com
-- **Twitter:** [@bloceditors](https://twitter.com)
-- **About:** [On the site](https://bloc-editorial.com#about)
+- **Email:** mominulsorkar971@gmail.com
+
+
+
 
 ---
 
